@@ -1,0 +1,87 @@
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\brief 3.exe.config
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\brief 3.exe
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\brief 3.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\View\MainWindow.g.cs
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3_MarkupCompile.cache
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3_MarkupCompile.lref
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\View\MainWindow.baml
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3.g.resources
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief_3.Properties.Resources.resources
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3.csproj.CopyComplete
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3.exe
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Debug\brief 3.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Buffers.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Memory.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Buffers.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Memory.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\brief 3.exe.config
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\brief 3.exe
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\brief 3.pdb
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\MaterialDesignColors.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Buffers.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Collections.Immutable.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Memory.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Resources.Extensions.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\MaterialDesignColors.pdb
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Buffers.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Collections.Immutable.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Memory.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Resources.Extensions.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.csprojAssemblyReference.cache
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\View\MainWindow.g.cs
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\App.g.cs
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3_MarkupCompile.cache
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3_MarkupCompile.lref
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\View\MainWindow.baml
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.g.resources
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief_3.Properties.Resources.resources
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.csproj.GenerateResource.cache
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.csproj.CoreCompileInputs.cache
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.csproj.CopyComplete
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.exe
+C:\Users\youcode\Desktop\Pc_Cleaner_App_test_V.build-main\brief 3\brief 3\obj\Debug\brief 3.pdb

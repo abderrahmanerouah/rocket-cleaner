@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brief 3", "brief 3\brief 3.csproj", "{EE3FF971-A9D9-480A-A56F-97206C5CBB3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartScanUpdater", "SmartScanUpdater\SmartScanUpdater.csproj", "{F20FFBEF-CCD1-4337-8C00-D358115A7D0C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SmartScanSetup", "SmartScanSetup\SmartScanSetup.vdproj", "{46FD6BDD-1DAD-416D-9D8F-8248BB5271D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3FF971-A9D9-480A-A56F-97206C5CBB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3FF971-A9D9-480A-A56F-97206C5CBB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3FF971-A9D9-480A-A56F-97206C5CBB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3FF971-A9D9-480A-A56F-97206C5CBB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20FFBEF-CCD1-4337-8C00-D358115A7D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20FFBEF-CCD1-4337-8C00-D358115A7D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20FFBEF-CCD1-4337-8C00-D358115A7D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20FFBEF-CCD1-4337-8C00-D358115A7D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FD6BDD-1DAD-416D-9D8F-8248BB5271D5}.Debug|Any CPU.ActiveCfg = Debug
+		{46FD6BDD-1DAD-416D-9D8F-8248BB5271D5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CF4974-E533-4C23-ABCF-33FD56E805D3}
+	EndGlobalSection
+EndGlobal

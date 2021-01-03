@@ -1,0 +1,44 @@
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\brief 3.exe.config
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\brief 3.exe
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\brief 3.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\MaterialDesignColors.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Tasks.Core.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Buffers.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Collections.Immutable.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Memory.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Resources.Extensions.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\MaterialDesignColors.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Framework.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Framework.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Tasks.Core.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Tasks.Core.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\Microsoft.Build.Utilities.Core.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Buffers.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Collections.Immutable.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Memory.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Resources.Extensions.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\bin\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\View\MainWindow.g.cs
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\App.g.cs
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3_MarkupCompile.cache
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3_MarkupCompile.lref
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\View\MainWindow.baml
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.g.resources
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief_3.Properties.Resources.resources
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.csproj.CopyComplete
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.exe
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.pdb
+C:\Users\Youcode\source\repos\brief 3\brief 3\obj\Release\brief 3.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\bin\Debug\SmartScanUpdater.exe.config
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\bin\Debug\SmartScanUpdater.exe
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\bin\Debug\SmartScanUpdater.pdb
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater_MarkupCompile.cache
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater_MarkupCompile.lref
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater.g.resources
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater.Properties.Resources.resources
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater.exe
+C:\Users\Youcode\source\repos\brief 3\SmartScanUpdater\obj\Debug\SmartScanUpdater.pdb
