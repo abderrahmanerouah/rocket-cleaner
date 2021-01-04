@@ -6,12 +6,10 @@
         xmlns:local="clr-namespace:SmartScanUpdater"
         mc:Ignorable="d"
         Title="MainWindow" Height="311.308" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
-    <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="background6.jpg"/>
-        </Grid.Background>
+    <Grid Background="#FFFFF9ED">
 
-        <Image x:Name="img_logo" Height="133"  Source="logo.png" VerticalAlignment="Top" Margin="0,23,-0.4,0" />
+
+       
 
         <ProgressBar x:Name="bar_progress" Margin="142,183,142.6,74.6" Visibility="Hidden" >
             <ProgressBar.Foreground>
@@ -30,22 +28,7 @@
             </ProgressBar.Foreground>
         </ProgressBar>
 
-        <Button x:Name="btn_start"  Content="Commener la mise à jour"  Width="237" Height="42" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" FontSize="18" Click="btn_start_Click" Margin="284,183,272.6,56.6">
-            <Button.Background>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.75">
-                    <LinearGradientBrush.RelativeTransform>
-                        <TransformGroup>
-                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
-                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
-                            <RotateTransform Angle="220.601" CenterY="0.5" CenterX="0.5"/>
-                            <TranslateTransform/>
-                        </TransformGroup>
-                    </LinearGradientBrush.RelativeTransform>
-                    <GradientStop Color="Black" Offset="0"/>
-                    <GradientStop Color="#FF6E40AE" Offset="1"/>
-                </LinearGradientBrush>
-            </Button.Background>
-        </Button>
+        <Button x:Name="btn_start"  Content="Commener la mise à jour"  Width="237" Height="42" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" FontSize="18" Click="btn_start_Click" Margin="284,183,272.6,56.6" Background="#FF332F52"/>
 
         <Button x:Name="btn_quiter"  Content="Finir"  Width="151" Height="42" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,20.6,9.6" Foreground="White" FontWeight="Bold" FontSize="18" Click="btn_quiter_Click" Visibility="Hidden">
             <Button.Background>

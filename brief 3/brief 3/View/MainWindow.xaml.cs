@@ -622,7 +622,7 @@ namespace brief_3
                         MessageBoxIcon.Question) == System.Windows.Forms.DialogResult.Yes) using (var client = new WebClient())
 
                         {
-                            Process.Start(@"..\..\..\SmartScanUpdater\bin\Release\SmartScanUpdater.exe");
+                            Process.Start(@"..\..\..\SmartScanUpdater\bin\Debug\SmartScanUpdater.exe");
                             
                             this.Close();
                         }
